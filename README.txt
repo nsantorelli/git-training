@@ -5,3 +5,4 @@ Les premières idées du projet sont présentes et vont évoluer au fur et à me
 L'objectif principal est de mettre en place et gérer les premiers événements de ce dépôt git.
 
 Le site est disponible a l'adresse http://www.resanet.com
+Les taches techniques a effectuer sont dans le fichier TODO.txt
