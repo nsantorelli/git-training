@@ -16,4 +16,5 @@ Rouge sur fond vert
 Technologie web : 
  - Servlet & JSP
  - Wicket
- - Struts2 
+ - Struts2
+ - JSF 
